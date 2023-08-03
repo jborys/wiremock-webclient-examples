@@ -1,0 +1,31 @@
+/gradle/
+.idea/
+/build/
+build
+.DS_Store
+out/
+*.class
+
+
+.gradle
+!gradle/wrapper/gradle-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+.name
+*.iws
+*.iml
+*.ipr
+/out/
+/.idea/
+target/
+
